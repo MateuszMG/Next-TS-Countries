@@ -1,0 +1,16 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 15vh;
+}
+
+.link {
+  font-size: 34px;
+  transition: 0.3s;
+}
+
+.link:hover {
+  color: #30dafb;
+}

@@ -1,0 +1,15 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 48px 0;
+}
+
+.text {
+  font-size: 1.4em;
+}
+
+.link {
+  text-decoration: underline #30dafb;
+}

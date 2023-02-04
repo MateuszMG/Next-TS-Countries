@@ -1,0 +1,20 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 48px 0;
+}
+
+.emoji {
+  margin: 48px;
+  transform: scale(8);
+}
+
+.list {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 6px 0;
+}
